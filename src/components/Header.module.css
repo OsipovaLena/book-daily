@@ -1,0 +1,11 @@
+.head {
+    background-color: steelblue;
+    text-align: center;
+    height: 100px;
+}
+
+.name {
+    padding-top: 15px;
+    font-size: 20px;
+    color: lightblue;
+}
